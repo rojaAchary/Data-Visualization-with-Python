@@ -11,27 +11,27 @@ Data visualization is the visual presentation of data or information. The goal o
 # Brief about Libraries:
 
 ## Matplotlib:
-<img src = "https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/misc/matplotlib.png" width="800">
+<img src = "https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/misc/matplotlib.png" width="400">
 
 - *Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.*
 
 ## Seaborn
-<img src = "https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/misc/Seaborn.png" width="800">
+<img src = "https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/misc/Seaborn.png" width="400">
 
 - *Seaborn harnesses the power of matplotlib to create beautiful charts in a few lines of code. The key difference is Seaborn's default styles and color palettes, which are designed to be more aesthetically pleasing and modern. Since Seaborn is built on top of matplotlib, you'll need to know matplotlib to tweak Seaborn's defaults.*
 
 ## Plotnine
-<img src = "https://github.com/has2k1/plotnine/blob/master/doc/images/readme-image-5.png" width="800">
+<img src = "https://github.com/has2k1/plotnine/blob/master/doc/images/readme-image-5.png" width="400">
 
 - *plotnine is an implementation of a grammar of graphics in Python, it is based on ggplot2. The grammar allows users to compose plots by explicitly mapping data to the visual objects that make up the plot.*
 
 ## Bokeh
-<img src = "https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/misc/bokeh.png" width="800">
+<img src = "https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/misc/bokeh.png" width="400">
 
 - *Bokeh is an interactive visualization library for modern web browsers. It provides elegant, concise construction of versatile graphics, and affords high-performance interactivity over large or streaming datasets. Bokeh can help anyone who would like to quickly and easily make interactive plots, dashboards, and data applications.*
 
 ## Plotly
-<img src = "https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/misc/plotly.PNG" width="800">
+<img src = "https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/misc/plotly.PNG" width="400">
 
 - *plotly is an interactive, open-source, and browser-based graphing library for Python 
 Built on top of plotly.js, plotly.py is a high-level, declarative charting library. plotly.js ships with over 30 chart types, including scientific charts, 3D graphs, statistical charts, SVG maps, financial charts, and more.*
