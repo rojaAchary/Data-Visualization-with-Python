@@ -1,4 +1,5 @@
 # Data-Visualization-with-Python ✨
+*Don’t simply show data, tell a story with it!*
 <img src = "https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/misc/Poster.PNG" width="1000">
 
 Data visualization is the visual presentation of data or information. The goal of data visualization is to communicate data or information clearly and effectively to readers. Typically, data is visualized in the form of a chart, infographic, diagram or map.
