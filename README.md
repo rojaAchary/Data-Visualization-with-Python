@@ -108,7 +108,7 @@ Built on top of plotly.js, plotly.py is a high-level, declarative charting libra
 ✅ Develop your general understanding of data formats and representations.<br>
 
 
-## Want to Stay Updated about the Program!!
+## Want to Stay Updated !!
 Fork 🍴 the repository 
  
 ## Learned Something  !!
