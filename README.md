@@ -30,7 +30,7 @@ pip install bokeh
 |No |Topics |Code Link 🔗|
 |---|-------|--------|
 |1|Basic Plotting|[Code](https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/Matplotlib_plots/1-Basic%20Plotting.ipynb)|
-|2|Line_and_color_style|[Code]|(https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/Matplotlib_plots/2-Basic_color_and_Line_styles.ipynb)|
+|2|Line_and_color_style|[Code](https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/Matplotlib_plots/2-Basic_color_and_Line_styles.ipynb)|
 |3|Plot_with_line_styles|[Code](https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/Matplotlib_plots/3-Simple_Line_Plots_with_Line_Styles.ipynb)|
 |4|Scatter_Plots|[Code](https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/Matplotlib_plots/4-Simple_Scatter_Plots.ipynb)|
 |5|Density_and_Contour_Plots|[Code](https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/Matplotlib_plots/5-Density_and_Contour_plots.ipynb)|
