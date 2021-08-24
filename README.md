@@ -8,6 +8,17 @@ Data visualization is the visual presentation of data or information. The goal o
 - Reinforce an argument or opinion
 - Highlight an important point in a set of data
 
+## Libraries required 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install below
+
+```bash
+pip install matplotlib
+pip install seaborn
+pip install plotnine
+pip install plotly
+pip install bokeh
+```
+
 # Brief about Libraries:
 
 ## Matplotlib:
@@ -56,7 +67,6 @@ Data visualization is the visual presentation of data or information. The goal o
 |6|Facet_Wrap|[Code](https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/Plotnine/facet_wrap.ipynb)|
 
 
-
 ## Bokeh
 <img src = "https://github.com/rojaAchary/Data-Visualization-with-Python/blob/main/misc/bokeh.png" width="400">
 
@@ -96,17 +106,6 @@ Built on top of plotly.js, plotly.py is a high-level, declarative charting libra
 ✅ Improve your Python data wrangling skills.<br>
 ✅ Learn the industry standard tools.<br>
 ✅ Develop your general understanding of data formats and representations.<br>
-
-## Libraries required 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install below
-
-```bash
-pip install matplotlib
-pip install seaborn
-pip install plotnine
-pip install plotly
-pip install bokeh
-```
 
 
 ## Want to Stay Updated about the Program!!
